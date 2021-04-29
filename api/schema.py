@@ -1,4 +1,4 @@
-# quickstart.schema.py
+# api.schema.py
 
 import graphene
 
