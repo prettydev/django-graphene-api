@@ -81,7 +81,7 @@ WSGI_APPLICATION = "api.wsgi.application"
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'sportsaiserver_db',
+        'NAME': 'sportsai_api',
         'USER': 'django',
         'PASSWORD': 'Autoiptv123123!',
         'HOST' : 'localhost',
